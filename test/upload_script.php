@@ -1,8 +1,5 @@
 <?php
-
-	function do_something($data){
 		echo "ok";
-	}
 	
 /*
 		public function add_picture() {

@@ -31,7 +31,7 @@
                        url: 'upload_script.php',
                        data: str,
                        success: function(data) {
-                                   do_something(data) ;
+                          alert("Successful"); ;
                        }
             });
       };
